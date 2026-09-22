@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Grafika (https://www.grafika.cc/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="2048" viewBox="0 0 220 220" preserveAspectRatio="xMidYMid meet">
+	<rect x="0" y="0" width="220" height="220" id="Rectangle" style="fill:#000000;" />
+	<rect x="10" y="10" width="200" height="200" id="Rectangle 1" style="fill:#FFFFFF;" />
+	<rect x="72.5" y="72.5" width="75" height="75" id="Rectangle 2" style="fill:#000000;" />
+	<rect x="72.5" y="47.5" width="75" height="25" id="Rectangle 3" style="fill:#819EA7;" />
+	<rect x="10" y="185" width="200" height="25" id="Rectangle 4" style="fill:#819EA7;" />
+</svg>
